@@ -1,4 +1,4 @@
-Here’s a detailed executive summary based on the data in your sales analysis dashboard:
+Here’s a detailed executive summary based on the data in my sales analysis dashboard:
 
 ---
 
